@@ -1,0 +1,34 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+h1{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    
+
+}
+
+.blue{
+    color: rgba(19, 19, 246, 0.73);
+}
+
+.background{
+
+    background-color: rgba(19, 19, 246, 0.73);
+    color: white;
+
+}
+
+.sublinhado{
+    text-decoration: underline;
+}
+
+.rodape{
+    background-color: black ;
+    color: white;
+    text-align: center;
+    
+}
