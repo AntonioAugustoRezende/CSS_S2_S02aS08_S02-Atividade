@@ -1,5 +1,8 @@
 body{
     font-family: 'Times New Roman', Times, serif;
+    max-width: 1200px;
+    margin-left: 100px;
+    
     
 }
 
@@ -19,6 +22,7 @@ h1{
 
     background-color: rgba(19, 19, 246, 0.73);
     color: white;
+    
 
 }
 
